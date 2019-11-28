@@ -1,3 +1,3 @@
 test text_new
-new_one
+new_one_
 new_one_again
